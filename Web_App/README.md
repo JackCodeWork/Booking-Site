@@ -36,7 +36,6 @@ Our tech stack will include:
   ├── config.py *** Database URLs, CSRF generation, etc
   ├── error.log
   ├── forms.py *** Your forms
-  ├── requirements.txt *** The dependencies we need to install with "pip3 install -r requirements.txt"
   ├── static
   │   ├── css 
   │   ├── font
